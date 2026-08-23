@@ -33,7 +33,7 @@ This Business Intelligence and workflow automation project focuses on transformi
 *Upar diye gaye video player par click karke aap mukammal pipeline execution dekh sakte hain.*
 
 ### 🛠️ Architecture Blueprint
-![n8n Workflow Graph](https://github.com/AHSAN48692/ai_analyst_agent/blob/796c729270db6fe26f68000ed6c43d2ed59b79a2/ai%20analyst%20agent.png)
+![n8n Workflow Graph](https://github.com)
 
 ---
 
@@ -61,4 +61,17 @@ This Business Intelligence and workflow automation project focuses on transformi
 4. Bind your unique authentication keys for the Gemini node and Gmail triggers.
 5. Click **Execute Workflow** to test the live execution stream.
 
-### ScreenShot of Workflow
+---
+
+## 📂 Repository File Structure
+
+```text
+├── AI Analyst Agent.mp4  # Workflow screen recording
+├── ai analyst agent.png  # Primary repository banner image
+├── w1.png                # Gmail 1st page: financial and operational performance
+├── w2.png                # Gmail 2nd page: Insights trends, Data Anamolies
+├── w3.png                # Gmail 3rd page: Actionable Recommendation
+├── w4.png                # Gmail 4th page: visualization
+├── w5.png                # Gmail 5th page: Summary KPIs
+└── README.md             # Project documentation
+```
