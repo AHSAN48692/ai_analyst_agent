@@ -44,22 +44,6 @@ https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f
 
 ---
 
-## 🚀 Getting Started & Setup
-
-### Prerequisites
-* A running instance of **n8n** (Cloud or Local Self-Hosted instance)
-* Valid Google Gemini API Credentials
-* Gmail OAuth2 configuration verified within your n8n environment
-
-### Installation Steps
-1. Copy the raw JSON workflow schema from your repository export file (`workflow-schema.json`).
-2. Open your empty canvas workspace inside your running n8n editor.
-3. Use the global shortcut `Ctrl + V` (or `Cmd + V` on macOS devices) to instantly paste and generate all node infrastructures.
-4. Bind your unique authentication keys for the Gemini node and Gmail triggers.
-5. Click **Execute Workflow** to test the live execution stream.
-
----
-
 ## 📂 Repository File Structure
 
 ```text
