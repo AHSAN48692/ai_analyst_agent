@@ -1,5 +1,7 @@
 # 🤖 Automated AI Data Analyst Agent
 
+![AI Data Analyst Banner](https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f68000ed6c43d2ed59b79a2/ai%20analyst%20agent.png)
+
 ## 📌 Project Overview
 
 This Business Intelligence and workflow automation project focuses on transforming raw transactional spreadsheets into immediate executive intelligence. Using **n8n orchestration** and **Generative AI**, I engineered an autonomous agent that ingests raw data files, programmatically handles preprocessing data pipelines, computes key business metrics, and delivers dynamic summary reports directly to your inbox in under **5 minutes**.
@@ -26,14 +28,9 @@ This Business Intelligence and workflow automation project focuses on transformi
 
 ### 🎥 Live Pipeline Execution
 
-<video src="https://github.com" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f68000ed6c43d2ed59b79a2/AI%20Analyst%20Agent.mp4
 
-*Upar diye gaye video player par click karke aap mukammal pipeline execution dekh sakte hain.*
-
-### 🛠️ Architecture Blueprint
-![n8n Workflow Graph](https://github.com)
+*Click the video above to watch the full pipeline execution in action.*
 
 ---
 
@@ -55,7 +52,7 @@ This Business Intelligence and workflow automation project focuses on transformi
 * Gmail OAuth2 configuration verified within your n8n environment
 
 ### Installation Steps
-1. Copy the raw JSON workflow schema from your export file.
+1. Copy the raw JSON workflow schema from your repository export file (`workflow-schema.json`).
 2. Open your empty canvas workspace inside your running n8n editor.
 3. Use the global shortcut `Ctrl + V` (or `Cmd + V` on macOS devices) to instantly paste and generate all node infrastructures.
 4. Bind your unique authentication keys for the Gemini node and Gmail triggers.
@@ -64,6 +61,17 @@ This Business Intelligence and workflow automation project focuses on transformi
 ---
 
 ## 📂 Repository File Structure
+
+```text
+├── workflow-schema.json  # Exported n8n workflow JSON schema
+├── AI Analyst Agent.mp4  # Workflow screen recording
+├── ai analyst agent.png  # Primary repository banner image
+├── w1.png                # Full n8n canvas visual graph
+├── w2.png                # Node detail view 1
+├── w3.png                # Node detail view 2
+├── w4.png                # Node detail view 3
+├── w5.png                # Final output email visualization 
+└── README.md             # Project documentation## 📂 Repository File Structure
 
 ```text
 ├── AI Analyst Agent.mp4  # Workflow screen recording
