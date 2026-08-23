@@ -25,12 +25,15 @@ This Business Intelligence and workflow automation project focuses on transformi
 ## 📺 Workflow Demo & Visuals
 
 ### 🎥 Live Pipeline Execution
-[![Watch the Demo Video](https://github.com/AHSAN48692/ai_analyst_agent/blob/796c729270db6fe26f68000ed6c43d2ed59b79a2/AI%20Analyst%20Agent.mp4)
 
-*Click the visual banner above to view the full pipeline execution video asset.*
+<video src="https://github.com" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
+
+*Upar diye gaye video player par click karke aap mukammal pipeline execution dekh sakte hain.*
 
 ### 🛠️ Architecture Blueprint
-![n8n Workflow Graph](https://githubusercontent.com)
+![n8n Workflow Graph](https://github.com)
 
 ---
 
