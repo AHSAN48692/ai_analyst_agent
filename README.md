@@ -63,17 +63,6 @@ https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f
 ## 📂 Repository File Structure
 
 ```text
-├── workflow-schema.json  # Exported n8n workflow JSON schema
-├── AI Analyst Agent.mp4  # Workflow screen recording
-├── ai analyst agent.png  # Primary repository banner image
-├── w1.png                # Full n8n canvas visual graph
-├── w2.png                # Node detail view 1
-├── w3.png                # Node detail view 2
-├── w4.png                # Node detail view 3
-├── w5.png                # Final output email visualization 
-└── README.md             # Project documentation## 📂 Repository File Structure
-
-```text
 ├── AI Analyst Agent.mp4  # Workflow screen recording
 ├── ai analyst agent.png  # Primary repository banner image
 ├── w1.png                # Gmail 1st page: financial and operational performance
