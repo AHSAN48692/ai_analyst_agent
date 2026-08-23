@@ -6,7 +6,7 @@ This Business Intelligence and workflow automation project focuses on transformi
 
 ---
 
-![n8n AI Analyst Workflow Blueprint](./ai%20analyst%20agent.png)
+![AI Data Analyst Banner](https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f68000ed6c43d2ed59b79a2/ai%20analyst%20agent.png)
 
 ---
 
@@ -30,7 +30,9 @@ This Business Intelligence and workflow automation project focuses on transformi
 
 ### 🎥 Live Pipeline Execution
 
-https://github.com/user-attachments/assets/AI%20Analyst%20Agent.mp4
+https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f68000ed6c43d2ed59b79a2/AI%20Analyst%20Agent.mp4
+
+*Click the video link above to watch the full pipeline execution in action.*
 
 ---
 
@@ -44,14 +46,31 @@ https://github.com/user-attachments/assets/AI%20Analyst%20Agent.mp4
 
 ---
 
+## 🚀 Getting Started & Setup
+
+### Prerequisites
+* A running instance of **n8n** (Cloud or Local Self-Hosted instance)
+* Valid Google Gemini API Credentials
+* Gmail OAuth2 configuration verified within your n8n environment
+
+### Installation Steps
+1. Copy the raw JSON workflow schema from your repository export file (`workflow-schema.json`).
+2. Open your empty canvas workspace inside your running n8n editor.
+3. Use the global shortcut `Ctrl + V` (or `Cmd + V` on macOS devices) to instantly paste and generate all node infrastructures.
+4. Bind your unique authentication keys for the Gemini node and Gmail triggers.
+5. Click **Execute Workflow** to test the live execution stream.
+
+---
+
 ## 📂 Repository File Structure
 
 ```text
-├── AI Analyst Agent.mp4  # Workflow screen recording video
+├── workflow-schema.json  # Exported n8n workflow JSON schema
+├── AI Analyst Agent.mp4  # Workflow screen recording
 ├── ai analyst agent.png  # Primary repository banner image
-├── w1.png                # Full n8n canvas visual graph architecture
-├── w2.png                # Gmail Page 1: Financial & operational performance
-├── w3.png                # Gmail Page 2: Insights trends & data anomalies
-├── w4.png                # Gmail Page 3: Actionable recommendations
-├── w5.png                # Gmail Page 4 & 5: Visualizations & summary KPIs
+├── w1.png                # Full n8n canvas visual graph
+├── w2.png                # Node detail view 1
+├── w3.png                # Node detail view 2
+├── w4.png                # Node detail view 3
+├── w5.png                # Final output email visualization 
 └── README.md             # Project documentation
