@@ -25,7 +25,7 @@ This Business Intelligence and workflow automation project focuses on transformi
 ## 📺 Workflow Demo & Visuals
 
 ### 🎥 Live Pipeline Execution
-[![Watch the Demo Video](https://githubusercontent.com)](https://github.com)
+[![Watch the Demo Video](AI Analyst Agent.mp4)
 
 *Click the visual banner above to view the full pipeline execution video asset.*
 
