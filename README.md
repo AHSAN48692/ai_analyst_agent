@@ -1,10 +1,12 @@
 # 🤖 Automated AI Data Analyst Agent
 
-![AI Data Analyst Banner](https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f68000ed6c43d2ed59b79a2/ai%20analyst%20agent.png)
-
 ## 📌 Project Overview
 
 This Business Intelligence and workflow automation project focuses on transforming raw transactional spreadsheets into immediate executive intelligence. Using **n8n orchestration** and **Generative AI**, I engineered an autonomous agent that ingests raw data files, programmatically handles preprocessing data pipelines, computes key business metrics, and delivers dynamic summary reports directly to your inbox in under **5 minutes**.
+
+---
+
+![n8n AI Analyst Workflow Blueprint](./ai%20analyst%20agent.png)
 
 ---
 
@@ -28,9 +30,7 @@ This Business Intelligence and workflow automation project focuses on transformi
 
 ### 🎥 Live Pipeline Execution
 
-https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f68000ed6c43d2ed59b79a2/AI%20Analyst%20Agent.mp4
-
-*Click the video above to watch the full pipeline execution in action.*
+https://github.com/user-attachments/assets/AI%20Analyst%20Agent.mp4
 
 ---
 
@@ -47,12 +47,11 @@ https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f
 ## 📂 Repository File Structure
 
 ```text
-├── AI Analyst Agent.mp4  # Workflow screen recording
+├── AI Analyst Agent.mp4  # Workflow screen recording video
 ├── ai analyst agent.png  # Primary repository banner image
-├── w1.png                # Gmail 1st page: financial and operational performance
-├── w2.png                # Gmail 2nd page: Insights trends, Data Anamolies
-├── w3.png                # Gmail 3rd page: Actionable Recommendation
-├── w4.png                # Gmail 4th page: visualization
-├── w5.png                # Gmail 5th page: Summary KPIs
+├── w1.png                # Full n8n canvas visual graph architecture
+├── w2.png                # Gmail Page 1: Financial & operational performance
+├── w3.png                # Gmail Page 2: Insights trends & data anomalies
+├── w4.png                # Gmail Page 3: Actionable recommendations
+├── w5.png                # Gmail Page 4 & 5: Visualizations & summary KPIs
 └── README.md             # Project documentation
-```
