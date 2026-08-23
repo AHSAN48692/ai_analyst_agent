@@ -44,33 +44,14 @@ https://raw.githubusercontent.com/AHSAN48692/ai_analyst_agent/796c729270db6fe26f
 * **Core Data Formats:** CSV (Comma-Separated Values)
 * **Functional Competencies:** Advanced ETL Pipelines, Data Architecture, Prompt Engineering, Process Automation
 
----
-
-## 🚀 Getting Started & Setup
-
-### Prerequisites
-* A running instance of **n8n** (Cloud or Local Self-Hosted instance)
-* Valid Google Gemini API Credentials
-* Gmail OAuth2 configuration verified within your n8n environment
-
-### Installation Steps
-1. Copy the raw JSON workflow schema from your repository export file (`workflow-schema.json`).
-2. Open your empty canvas workspace inside your running n8n editor.
-3. Use the global shortcut `Ctrl + V` (or `Cmd + V` on macOS devices) to instantly paste and generate all node infrastructures.
-4. Bind your unique authentication keys for the Gemini node and Gmail triggers.
-5. Click **Execute Workflow** to test the live execution stream.
-
----
-
 ## 📂 Repository File Structure
 
 ```text
-├── workflow-schema.json  # Exported n8n workflow JSON schema
-├── AI Analyst Agent.mp4  # Workflow screen recording
+├── AI Analyst Agent.mp4  # Workflow screen recording video
 ├── ai analyst agent.png  # Primary repository banner image
-├── w1.png                # Full n8n canvas visual graph
-├── w2.png                # Node detail view 1
-├── w3.png                # Node detail view 2
-├── w4.png                # Node detail view 3
-├── w5.png                # Final output email visualization 
+├── w1.png                # Gmail Page 1: Financial & operational performance
+├── w2.png                # Gmail Page 2: Insights trends & data anomalies
+├── w3.png                # Gmail Page 3: Actionable recommendations
+├── w4.png                # Gmail Page 4 & 5: Visualizations & summary KPIs
+├── w5.png                
 └── README.md             # Project documentation
